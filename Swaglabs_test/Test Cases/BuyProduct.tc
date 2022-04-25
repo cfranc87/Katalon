@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuyProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c138a557-d2d7-4fd9-ba69-a41537783a24</testCaseGuid>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>06dfeff7-f67c-4717-89ad-e6bbf369585b</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Demo'</defaultValue>
+      <description></description>
+      <id>e9bdf27a-59b6-4dc7-89a4-be22c0ed9a48</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'70100'</defaultValue>
+      <description></description>
+      <id>6ac82795-aebc-400b-9576-bdfea1f784cf</id>
+      <masked>false</masked>
+      <name>postalcode</name>
+   </variable>
+   <variable>
+      <defaultValue>'SauceCard #31337'</defaultValue>
+      <description></description>
+      <id>6a5bd7da-ac7f-4de5-bc60-6c42c66cc43d</id>
+      <masked>false</masked>
+      <name>PaymentInfo</name>
+   </variable>
+   <variable>
+      <defaultValue>'FREE PONY EXPRESS DELIVERY!'</defaultValue>
+      <description></description>
+      <id>3501c75f-60dc-4b43-90a9-e12f7ae46cf9</id>
+      <masked>false</masked>
+      <name>ShippingInfo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Total: $62.62'</defaultValue>
+      <description></description>
+      <id>175932d8-9e98-42f5-abe6-449015e1ba10</id>
+      <masked>false</masked>
+      <name>tot</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify home and products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fef38344-eec4-4f74-b5ae-327b9e9a1404</testCaseGuid>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>456d9eee-bb7d-4238-b18f-ab670cc90148</id>
+      <masked>false</masked>
+      <name>array_productsName</name>
+   </variable>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>dc4a9bf1-c5c6-46c7-bc2f-7d6b93bd9e13</id>
+      <masked>false</masked>
+      <name>array_productsNameZA</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>afbe75bc-d8b2-41e4-bdac-7ec8c97a26d7</id>
+      <masked>false</masked>
+      <name>checkProductName</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>d7cae626-2ecf-4294-bc37-d2fbafadd2c0</id>
+      <masked>false</masked>
+      <name>checkProductImage</name>
+   </variable>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>8ccbe8dc-b57a-45f4-9d32-bb0ece7d598a</id>
+      <masked>false</masked>
+      <name>array_productsImage</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>91cb717a-9e00-442a-9b62-300fdc7cf36c</id>
+      <masked>false</masked>
+      <name>checkProductOrder</name>
+   </variable>
+</TestCaseEntity>
